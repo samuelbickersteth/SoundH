@@ -1,5 +1,3 @@
-# SoundHound
-
 
 # Python Web Application with Kubernetes and Prometheus Monitoring
 
